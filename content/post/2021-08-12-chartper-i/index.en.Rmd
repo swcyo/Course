@@ -1,0 +1,328 @@
+---
+title: Chartper I:Surgical examination and diagnosis of urology and male genital system
+author: Song Ou-Yang
+date: '2021-08-12'
+slug: chartper-i
+categories: []
+tags:
+  - Undergraduate
+subtitle: 'Examination and diagnosis'
+summary: 'Examination and diagnosis'
+authors: [Song Ou-Yang]
+lastmod: '2021-08-12T22:21:24+08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## <font color=Tomato>I. Fill in the blanks</font>
+
+1. Urology is the subject of research and treatment of <u>&emsp;&emsp;&emsp;</u>diseases.
+2. Urinary incontinence can be divided into<u>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</u>, <u> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</u>, and <u>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</u>urinary incontinence.
+3. Addisit count is to collect urine for 12 hours, centrifugal precipitation count, red blood cell above<u>&emsp;&emsp;</u>, white blood cell above<u>&emsp;&emsp;</u>, and cast above<u>&emsp;&emsp;</u>are all regarded as abnormal.
+
+## <font color=Tomato>II.  True or false</font>
+
+- [ ] 1. Painless hematuria is generally the characteristic of <u>**urinary calculi**</u>.
+- [ ] 2. <u>**Leakage of urine**</u> is an involuntary outflow of urine due to the loss of self-control ability of micturition due to bladder sphincter injury or nerve dysfunction.
+
+## <font color=Tomato>III. Multiple Choice Questions</font>
+
+#### <font color=blue>[A型题]</font>
+
+1. 排尿中断的症状常见哪种疾病。
+
+* [ ] A．膀胱癌
+* [ ] B．肾结石
+* [ ] C．输尿管结石
+* [ ] D．膀胱结石
+* [ ] E．阴茎癌
+
+2. 泌尿外科疾病中哪一类疾病常不伴有血尿 。
+
+* [ ] A．泌尿系肿瘤
+* [ ] B．泌尿系统感染
+* [ ] C．原发性醛固酮增多症
+* [ ] D．泌尿系结石
+* [ ] E．泌尿系外伤
+
+3. 下列哪种疾病不适宜作膀胱镜检查?
+
+* [ ] A．输尿管肿瘤
+* [ ] B．尿道肿瘤
+* [ ] C．尿道狭窄
+* [ ] D．前列腺癌
+* [ ] E．膀膀肿瘤
+
+4. 无痛性间歇性肉眼血尿最常见于<u>&emsp;&emsp;</u> 。
+
+* [ ] A．急性肾盂肾炎
+* [ ] B．急性前列腺炎
+* [ ] C．肾结核
+* [ ] D．膀胱肿瘤
+* [ ] E．肾肿瘤
+
+5. 下列检查哪项对前列腺癌诊断意义不大  。
+
+* [ ] A．PSA检查
+* [ ] B．肛门直肠指检
+* [ ] C．排泄性尿路造影
+* [ ] D．前列腺穿刺活检
+* [ ] E．前列腺B超
+
+6. 下列哪一项检查，不能了解到分测肾功能 。
+
+* [ ] A．血肌酐（Cr）和血尿素氮（BUN）测定
+* [ ] B．排泄性尿路造影
+* [ ] C．肾小球滤过率和有效肾血流量测定（通过ECT检查）
+* [ ] D．靛胭脂检查
+* [ ] E．增强CT检查
+
+7. 尿路梗阻伴残尿量增加，尿液不断从尿道流出，应属哪种情况 。
+
+* [ ] A．压力性尿失禁
+* [ ] B．急迫性尿失禁
+* [ ] C．真性尿失禁
+* [ ] D．充溢性尿失禁
+* [ ] E．混合性尿失禁
+
+8. 下腹外伤患者，小便不能解出，下腹痛，腹肌稍紧张，需立即确定磅胱有无破裂应用哪种方法。
+
+* [ ] A．尿道造影
+* [ ] B．膀胱造影
+* [ ] C．排泄性尿路造影
+* [ ] D．插入导尿管注水试验
+* [ ] E．膀胱B超
+
+9. 尿普通细菌培养有细菌生长.菌落数大于10万/ml认为是<u>&emsp;&emsp;</u> 。
+
+* [ ] A．尿液污染
+* [ ] B．确诊尿路感染
+* [ ] C．泌尿系结核
+* [ ] D．盆腔炎
+* [ ] E．前列腺炎
+
+10. 有尿频.尿急症状尿普通培养无菌生长，尿常规检查pH5，镜检大量脓球可能为       。
+
+* [ ] A．急性肾盂肾炎
+* [ ] B．急性膀胱炎
+* [ ] C．泌尿系结核
+* [ ] D．急性前列腺炎
+* [ ] E．急性尿道炎
+
+11. 新婚后的女孩，有尿频.尿急.排尿疼痛，急性泌尿系感染症状，拟定初步治疗方案，下列哪项检查最适宜       。
+
+* [ ] A．尿常规
+* [ ] B．尿培养
+* [ ] C．尿沉淀涂片染色检查
+* [ ] D．膀胱镜检查
+* [ ] E．尿脱落细胞学
+
+12. 右腰部剧烈绞痛，向右下腹放射三小时，大汗淋滴，面色苍白，尿常规RBC+++/Hp，那一样检查不应该做       。
+
+* [ ] A．腹部平片检查（KUB）
+* [ ] B．肾.输尿管B超检查
+* [ ] C．螺旋CT检查（肾.输尿管）
+* [ ] D．MRU检查（磁共振尿路成像）
+* [ ] E．泌尿系分泌造影
+
+13. 泌尿外科疾病中下列哪种疾病伴有血尿 。
+
+* [ ] A．睾丸癌
+* [ ] B．肾囊肿
+* [ ] C．肾盂癌
+* [ ] D．精索静脉曲张
+* [ ] E．肾上腺皮质癌
+
+14. 患者排出乳白色尿液，但加入1ml乙醚后能使尿液清亮，可能       。
+
+* [ ] A．脓尿
+* [ ] B．乳糜尿
+* [ ] C．晶体尿
+* [ ] D．血尿
+* [ ] E．气尿
+
+15. 每次排尿开始有血尿，而排尿终末尿液正常，病变初步是位于       。
+
+* [ ] A．肾.输尿管
+* [ ] B．前尿道
+* [ ] C．膀胱颈及三角区
+* [ ] D．前列腺
+* [ ] E．膀胱底部
+
+16. 老年患者有会阴不适排尿不畅，血PSA>10ng/ml，可能为       。
+
+* [ ] A．前列腺炎
+* [ ] B．前列腺增生症（BPH）
+* [ ] C．前列腺癌
+* [ ] D．神经源性膀胱
+* [ ] E．膀胱癌
+
+17. 诊断膀胱癌的最好方法是  。
+
+* [ ] A．膀胱造影
+* [ ] B．直肠膀胱双合诊
+* [ ] C．膀胱镜检查
+* [ ] D．尿液脱落细胞
+* [ ] E．尿常规
+
+18. 检测肾功能严重受损，伴有重度肾积水的最佳方法       。
+
+* [ ] A．排泄性尿路造影
+* [ ] B．CT
+* [ ] C．MRI
+* [ ] D．MRU
+* [ ] E．双肾B超
+
+---
+
+
+
+#### <font color=blue>[B型题]</font>
+
+* [ ] A．活动后血尿
+* [ ] B．全程无痛性血尿
+* [ ] C．尿频尿急后伴血尿
+* [ ] D．乳糜性血尿
+* [ ] E．阵发性高血压
+
+19. 泌尿系结核
+20. 泌尿系结石
+21. 泌尿系肿瘤
+22. 乳糜尿
+
+---
+
+#### <font color=blue>[C型题]</font>
+
+* [ ] A．全程性无痛性肉眼血尿
+* [ ] B．活动后血尿
+* [ ] C．两者都是
+* [ ] D．两者都不是
+
+23. 肾膀胱肿瘤       。
+24. 上尿路结石       。
+25. 先天性马蹄肾       。
+
+#### <font color=blue>[X型题]</font>
+
+26. 排尿困难包括哪几项       。
+
+* [ ] A．尿线变细
+* [ ] B．排尿时间延长
+* [ ] C．排尿射程缩短
+* [ ] D．不便滴沥
+* [ ] E．尿失禁
+
+27. 尿道膀胱镜检查可以       。
+
+* [ ] A．尿道膀胱有无结石.肿瘤
+* [ ] B．测定分肾功能
+* [ ] C．取膀胱异物及活检
+* [ ] D．扩张狭窄尿道
+* [ ] E．膀胱憩室
+
+28. 证实有无残尿和测定残尿量，哪几项检查是正确的       。
+
+* [ ] A．排尿后插入导尿管
+* [ ] B．排尿后膀胱区叩诊
+* [ ] C．肛门直肠指诊
+* [ ] D．排尿后膀胱区超声检查
+* [ ] E．排尿后KUB检查
+
+29. 疑为膀胱破裂可作哪几项检查确诊       。
+
+* [ ] A．导尿管作膀胱内注液试验
+* [ ] B．尿道探子检查
+* [ ] C．膀胱造影
+* [ ] D．膀胱尿道镜检查
+* [ ] E．MRU检查
+
+30. 下列几种情况有排小便能自控，哪几种排尿异常不属于尿失禁       。
+
+* [ ] A．急性尿失禁
+* [ ] B．阴道膀胱瘘
+* [ ] C．输尿管异位开口
+* [ ] D．压力性尿失禁
+* [ ] E．充溢性尿失禁
+  
+31. 目前临床上常用的肾功能检查方法有       。
+
+* [ ] A．血肌酐.血尿素氮测定
+* [ ] B．内生肌酐清除率测
+* [ ] C．尿浓缩稀释联合检查
+* [ ] D．肾小球滤过率和有效血液量测定
+* [ ] E．排泄性尿路造影
+
+32. 下列哪些疾病容易在尿液脱落细胞中查到癌细胞       。
+
+* [ ] A．肾盂癌
+* [ ] B．肾癌
+* [ ] C．肾母细胞癌
+* [ ] D．膀胱癌
+* [ ] E．肾上腺皮质癌
+  
+33. 下列哪几种方法可以帮助上尿路结石定位诊断       。
+* [ ] A．肾.输尿管B超检查
+* [ ] B．腹部平片（KUB）
+* [ ] C．同位素肾图
+* [ ] D．MRU
+* [ ] E．螺旋CT检查
+
+---
+
+
+## <font color=Tomato>IV.  Noun interpretation</font>
+
+* [ ] 1.尿少（oliguria)
+* [ ] 2.尿闭（anuria)
+* [ ] 3.尿潴留（urinary retantine）
+* [ ] 4.尿流动力学测定(urodynamics)
+* [ ] 5.阳痿（impotence)
+* [ ] 6.尿失禁（incontinence）
+
+## <font color=Tomato>V.  Question and answer</font>
+
+* [ ] 1.肾功能检查常用方法有？
+* [ ] 2.什么叫尿频，引起尿频的各种原因？
+
+---
+
+参考答案
+一.填空题
+1.泌尿男生殖系统及肾上腺外科
+2.真性尿失禁   压力性尿失禁  急迫性尿失禁  充溢性尿失禁
+3.50万   100万  5000
+
+二.判断改错题
+1.错   应为泌尿系肿瘤
+2.错   应为尿失禁
+
+三.选择题
+1.D  2.C   3.C  4.D  5.C   6.A   7.D  8．D   9．B
+10.C   11.B  12.D 13.C  14.B  15.B   16.C  17.C  18.D
+19．C   20.A   21.B   22.D   23.A   24.B   25.D
+26.ABCD  27.ABCE  28.ABD  29.ACD   30.BC  31.ABCDE
+32.AD  33.ABE
+
+四.名词解释
+1.尿少（oliguria)：每日排尿量少于400ml。
+2.尿闭（anuria)：每日尿量少于100ml。
+3.尿潴留（urinary retantine）：指膀胱内充满尿液，而不能排出。
+4.尿流动力学测定(urodynamics)：是借助流体力学及电生理学方法研究排尿功能障碍的一种技术。
+5.阳痿（impotence)  ：阴茎勃起不坚和不能勃起，而不能性交者。
+6.尿失禁（incontinence）：尿液不能控制而自行流出。
+
+五.问答题
+1.答：
+（1）尿比重测定
+（2）血肌酐和血尿素氮测定
+（3）内生肌酐清除率
+（4）肾小球滤过率和有效肾血流量测定（ECT检查）
+
+2.答：
+排尿次数增多称为尿频，正常人白天排尿4-6次，夜间0-1次
+原因：生理性尿频 多饮水，服用利尿食品，精神因素亦可引起尿频
+病理性尿频   泌尿生殖道炎症，各种原因引起膀胱容量减少下尿道梗阻以致残余增多引起的尿频.糖尿病.尿毒症.肾浓缩功能障碍引起尿频。
