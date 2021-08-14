@@ -20,4 +20,4 @@ superuser: false
 user_groups:
   - Teachers
 ---
-Dr. **Song Ou-Yang** is a teacher of urology at the Shihezi University.
+Dr. Chen Li is a teacher of urology at the Shihezi University.
