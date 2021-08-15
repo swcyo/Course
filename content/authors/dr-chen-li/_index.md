@@ -1,7 +1,7 @@
 ---
 title: Dr. Chen Li
 role: Lecture
-avatar_filename: u-3667068997-1537450925-fm-26-gp-0.jpg
+avatar_filename: avatar.jpg
 bio: Urologist
 interests:
   - Urology
