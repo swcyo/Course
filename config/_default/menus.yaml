@@ -11,8 +11,12 @@ main:
     url: '/course'
     weight: 20
     identifier: courses
-  - name: Undergraduate
-    url: '/course/example/'
+  - name: Teaching content
+    url: '/course/conent/'
+    weight: 10
+    parent: courses
+  - name: Teaching videos
+    url: '/course/video/'
     weight: 10
     parent: courses
   - name: Library

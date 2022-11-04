@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Urology Course  for Shihezi University
+title: Urology Course for Shihezi University
 design:
   background:
     gradient_angle: 0
@@ -18,6 +18,6 @@ cta:
 ---
 <br>
 
-A professional learning and teaching website about urology
+A undergraduate learning and teaching website about **UROLOGY**
 
-For students at school of medicine, Shihezi University
+For **overseas** students at **Medical college, Shihezi University**

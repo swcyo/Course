@@ -20,12 +20,16 @@ twitter: 'swcyo'
 
 # Contact (edit or remove options as required)
 
-email: ouyangsong87@gmail.com
+email: ouyangsong@shzu.edu.cn
 contact_links:
   - icon: comments
     icon_pack: fas
     name: Discuss on the forum
     link: 'https://github.com/swcyo/Course/discussions'
+  - icon: weixin
+    icon_pack: fab
+    name: Wechat
+    link: swcyoyond
 
 # Site header
 

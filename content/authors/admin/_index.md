@@ -1,4 +1,6 @@
 ---
+authors:
+- Dr. Song Ou-Yang
 bio: My research interests include urogenital tumors, urolithiasis, male infertility, male erectile dysfunction,etc.
 education:
   courses:
@@ -11,7 +13,7 @@ education:
   - course: Bachelor in Clinical medicine
     institution: Changsha Medical college
     year: 2010
-email: "swcyo@126.com"
+email: "ouyangsong@shzu.edu.cn"
 highlight_name: false
 interests:
 - Urology
@@ -25,7 +27,7 @@ role: Senior Urologist, Lecturer
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ouyangsong87@gamil.com
+  link: mailto:ouyangsong@shzu.edu.cn
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=eTN286IAAAAJ
@@ -44,4 +46,4 @@ user_groups:
 - Teachers
 ---
 
-Dr. **Song Ou-Yang**  is a associate professor of urology at the Shihezi University. His research interests include urogenital tumors, urolithiasis, male infertility, male erectile dysfunction,etc.
+Dr. **Song Ou-Yang** is an associate professor of urology at the Shihezi University. His research interests include urogenital tumors, urolithiasis, male infertility, male erectile dysfunction,etc.

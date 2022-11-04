@@ -11,10 +11,10 @@ content:
   filter_button:
     - name: All Courses
       tag: '*'
-    - name: Undergraduate
-      tag: Undergraduate
-    - name: Statistics
-      tag: Statistics
+    - name: Teaching content
+      tag: Teaching content
+    - name: Teaching videos
+      tag: video
 design:
   columns: '1'
   view: 3

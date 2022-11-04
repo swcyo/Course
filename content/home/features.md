@@ -3,18 +3,18 @@ widget: featurette
 headless: true
 weight: 15
 title: Features
-subtitle: ✨ Teach _anything_ with
+subtitle: ✨ Teach _UROLOGY_  with
 feature:
   - icon: chalkboard-teacher
     icon_pack: fas
     name: Slides
-    description: 
+    description: Undergraduate teaching content
   - icon: hand-holding-medical
     icon_pack: fas
     name: Surgery
-    description: 
+    description: Share Urology surgery videos
   - icon: hospital-user
     icon_pack: fas
     name: In-patient
-    description: 
+    description: Clinical Practice and Internship
 ---
