@@ -12,7 +12,7 @@ content:
     - name: All Courses
       tag: '*'
     - name: Teaching content
-      tag: Teaching content
+      tag: content
     - name: Teaching videos
       tag: video
 design:

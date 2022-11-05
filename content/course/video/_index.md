@@ -10,24 +10,11 @@ type: book
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
 
--   Common genitourinary system symptoms and diseases
--   Common urology professional equipment and instruments
--   Common urological examination and inspection items
--   Common Minimally Invasive Surgery in Urology
-
-## Program overview
-
-This website is mainly designed for urology undergraduate education and teaching, including courseware and exercises, also including some academic trends, etc.
-
-## Courses in this program
+## Videos in this program
 
 {{< list_children >}}
 
-## Meet your teacher
-
-{{< mention "admin" >}}, {{< mention "liu" >}}
 
 ## FAQs
 
@@ -46,4 +33,4 @@ This website is mainly designed for urology undergraduate education and teaching
 
 {{< /spoiler >}}
 
-{{< cta cta_text="Begin the course" cta_link="python" >}}
+{{< cta cta_text="Begin the course" cta_link="pcnl" >}}

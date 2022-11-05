@@ -1,11 +1,15 @@
 ---
 date: "2021-01-01"
-title: Python basics
+title: Flexble-URLS
 type: book
 weight: 20
+tags:
+- video
 ---
 
-Build a foundation in Python.
+PCNL is short for "Percutaneous nephrolithotomy".
+
+https://www.youtube.com/results?search_query=PCNL
 
 <!--more-->
 
@@ -13,7 +17,7 @@ Build a foundation in Python.
 
 ## Learn
 
-{{< youtube rfscVS0vtbw >}}
+{{< youtube Q2718ldwx_8 >}}
 
 ## Quiz
 

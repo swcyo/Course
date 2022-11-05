@@ -20,7 +20,7 @@ main:
     weight: 10
     parent: courses
   - name: Library
-    url: '/post'
+    url: '/library'
     weight: 30
   - name: Contact
     url: '/contact'
