@@ -7,7 +7,13 @@ interests:
   - Urology
   - Andrology Male Reproductive
   - Medicine
-social: []
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:870099566@qq.com
+- icon: qq
+  icon_pack: fab
+  link: 870099566
 organizations:
   - name: First Affiliated Hospital, School of Medicine, Shihezi University
     url: http://www.sdyfy.com.cn

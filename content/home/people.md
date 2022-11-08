@@ -7,10 +7,10 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 15
 
 title: Teachers
-subtitle:
+subtitle: "Urogists"
 
 content:
   # Choose which groups/teams of users to display.

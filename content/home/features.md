@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 15
+weight: 25
 title: Features
 subtitle: ✨ Teach _UROLOGY_  with
 feature:
